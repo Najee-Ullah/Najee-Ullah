@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Najee-Ullah
+- 👀 I’m interested in Game development and just overall interested in tech and innovation
+- 🌱 I’m currently doing Computer Science
