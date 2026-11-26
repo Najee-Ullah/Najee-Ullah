@@ -73,9 +73,4 @@
 
 ---
 
-⭐️ **Check out my repositories to see what I’ve been working on!**
-
-<p align="center">
-  <img src="https://i.pinimg.com/originals/b2/36/e8/b236e80c866b149e67159c425eac5aea.gif" width="100%" alt="Thanks for visiting!" />
-</p>
 
